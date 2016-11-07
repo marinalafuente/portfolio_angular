@@ -6,8 +6,8 @@
   "devDependencies": {
   },
   "engines": {
-    "node": "5.1.0",
-    "npm": "3.4.1"
+    "node": "4.4.3",
+    "npm": "2.15.1"
   },
   "scripts": {
     "test": "grunt test",

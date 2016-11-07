@@ -21,6 +21,3 @@
     "node_modules"
   ]
 }
-
-// "test": "grunt test",
-// "postinstall": "bower install"

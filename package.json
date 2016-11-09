@@ -14,8 +14,9 @@
     "postinstall": "bash ./post_install.sh"
   },
   "dependencies": {
-    "bower": "^1.7.1",
-    "express": "4.13.3"
+    "bower": "1.7.1",
+    "express": "4.13.3",
+    "connect": "3.5.0"
   },
   "cacheDirectories": [
     "node_modules"

@@ -3,22 +3,19 @@
   "version": "0.0.0",
   "private": false,
   "author": "your-name",
-  "devDependencies": {},
+  "devDependencies": {
+  },
   "engines": {
-    "node": "4.4.3",
-    "npm": "2.15.1"
+    "node": "5.1.0",
+    "npm": "3.4.1"
   },
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1",
-    "start": "node server.js",
-    "postinstall": "bash ./post_install.sh"
+    "test": "grunt test",
+    "postinstall": "bower install"
   },
   "dependencies": {
     "bower": "1.7.1",
-    "express": "4.13.3",
-    "connect": "3.5.0"
+    "express": "4.13.3"
   },
-  "cacheDirectories": [
-    "node_modules"
-  ]
+  "cacheDirectories": ["node_modules"]
 }

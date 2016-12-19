@@ -1,8 +1,8 @@
 {
-  "name": "AppName",
+  "name": "portfolio",
   "version": "0.0.0",
   "private": false,
-  "author": "your-name",
+  "author": "Marina Lafuente",
   "devDependencies": {
   },
   "engines": {

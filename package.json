@@ -11,7 +11,7 @@
   },
   "scripts": {
     "test": "grunt test",
-    "postinstall": "bower install"
+    "postinstall": ""
   },
   "dependencies": {
     "bower": "1.7.1",

@@ -2,22 +2,57 @@
     {
     "id": 1,
     "proyect_title": "Mobile App design",
-    "image": "img/portfolio/cabin.png",
+    "image": "img/portfolio/app_mockup.png",
+    "client": "Personal purpose",
     "description": "This was a mobile app design used in order to improve Sketch workflow",
-    "client": "Paco Fiestas"
+    "visit": "https://www.domestika.org/es/projects/273167-mi-proyecto-del-curso-diseno-de-interfaces-con-sketch"
     },
     {
     "id": 2,
-    "proyect_title": "SUPER CAKE",
-    "image": "img/portfolio/cake.png",
+    "proyect_title": "Landing page Ruby project",
+    "image": "img/portfolio/baggers.png",
+    "client": "Group project",
     "description": "Use this area of the page to describe your project. The icon above is part of a free icon set by .On their website, you can download their free set with 16 icons, or you can purchase the entire set with 146 icons for only $12!",
-    "client": "Paco Fiestas"
+    "visit": "http://baggers.herokuapp.com/"
     },
     {
     "id": 3,
-    "proyect_title": "WTF",
-    "image": "img/portfolio/circus.png",
+    "proyect_title": "Landing page",
+    "image": "img/portfolio/analyticmate.png",
+    "client": "Analyticmate",
     "description": "Use this area of the page to describe your project. The icon above is part of a free icon set by .On their website, you can download their free set with 16 icons, or you can purchase the entire set with 146 icons for only $12!",
-    "client": "Paco Fiestas"
+    "visit": "https://www.analyticmate.com/"
+    },
+    {
+    "id": 4,
+    "proyect_title": "Digital composition",
+    "image": "img/portfolio/letritass.png",
+    "client": "Personal purpose",
+    "description": "Use this area of the page to describe your project. The icon above is part of a free icon set by .On their website, you can download their free set with 16 icons, or you can purchase the entire set with 146 icons for only $12!",
+    "visit": ""
+    },
+    {
+    "id": 5,
+    "proyect_title": "Digital painting",
+    "image": "img/portfolio/paintinglin.png",
+    "client": "Personal purpose",
+    "description": "Use this area of the page to describe your project. The icon above is part of a free icon set by .On their website, you can download their free set with 16 icons, or you can purchase the entire set with 146 icons for only $12!",
+    "visit": ""
+    },
+    {
+    "id": 6,
+    "proyect_title": "RollUp",
+    "image": "img/portfolio/rollupnew.png",
+    "client": "Pragsis enterprise BigData event",
+    "description": "Use this area of the page to describe your project. The icon above is part of a free icon set by .On their website, you can download their free set with 16 icons, or you can purchase the entire set with 146 icons for only $12!",
+    "visit": ""
+    },
+    {
+    "id": 7,
+    "proyect_title": "Drawing",
+    "image": "img/portfolio/retrato.jpg",
+    "client": "Personal purpose",
+    "description": "Use this area of the page to describe your project. The icon above is part of a free icon set by .On their website, you can download their free set with 16 icons, or you can purchase the entire set with 146 icons for only $12!",
+    "visit": ""
     }
 ]

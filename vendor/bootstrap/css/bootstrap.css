@@ -1115,6 +1115,7 @@ figure {
 img {
   vertical-align: middle;
 }
+/*-----------------------------------------HAS CAMBIADO EL HEIGHT DE IMG-------------------------*/
 .img-responsive,
 .thumbnail > img,
 .thumbnail a > img,
@@ -1122,7 +1123,7 @@ img {
 .carousel-inner > .item > a > img {
   display: block;
   max-width: 100%;
-  height: auto;
+  height: auto; /*estaba en height auto en todos casos*/
 }
 .img-rounded {
   border-radius: 6px;

@@ -1,22 +1,10 @@
-var express = require('express');
-var app = express();
-
-// set the port of our application
-// process.env.PORT lets the port be set by Heroku
-var port = process.env.PORT || 8080;
-
-// make express look in the public directory for assets (css/js/img)
-app.use(express.static(__dirname + '/app'));
-
-// set the home page route
-app.get('/', function(req, res) {
-
-    // make sure index is in the right directory. In this case /app/index.html
-    //res.render('index');
-    res.sendFile('index.html')
-
+var connect = require('connect');
+var serveStatic = require('serve-static');
+connect().use(serveStatic(__dirname)).listen(8080, function(){
+    console.log('Server running on 8080...');
 });
 
-app.listen(port, function() {
-    console.log('Our app is running on http://localhost:' + port);
-});
+// ​cd navega hasta la carpeta 
+// npm install connect serve-static
+// pon este archivo en la raíz de la carpeta
+// ejecuta en consola node server.js

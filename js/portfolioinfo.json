@@ -12,7 +12,7 @@
     "proyect_title": "Landing page Ruby project",
     "image": "img/portfolio/baggers.png",
     "client": "Group project",
-    "description": "Use this area of the page to describe your project. The icon above is part of a free icon set by .On their website, you can download their free set with 16 icons, or you can purchase the entire set with 146 icons for only $12!",
+    "description": "This was our final project in Generation program -Web Development-",
     "visit": "http://baggers.herokuapp.com/"
     },
     {
@@ -20,7 +20,7 @@
     "proyect_title": "Landing page",
     "image": "img/portfolio/analyticmate.png",
     "client": "Analyticmate",
-    "description": "Use this area of the page to describe your project. The icon above is part of a free icon set by .On their website, you can download their free set with 16 icons, or you can purchase the entire set with 146 icons for only $12!",
+    "description": "Analyticmate is part of Pragsis enterprise. This was the product main page",
     "visit": "https://www.analyticmate.com/"
     },
     {
@@ -28,7 +28,7 @@
     "proyect_title": "Digital composition",
     "image": "img/portfolio/letritass.png",
     "client": "Personal purpose",
-    "description": "Use this area of the page to describe your project. The icon above is part of a free icon set by .On their website, you can download their free set with 16 icons, or you can purchase the entire set with 146 icons for only $12!",
+    "description": "Photoshop composition",
     "visit": ""
     },
     {
@@ -36,15 +36,15 @@
     "proyect_title": "Digital painting",
     "image": "img/portfolio/paintinglin.png",
     "client": "Personal purpose",
-    "description": "Use this area of the page to describe your project. The icon above is part of a free icon set by .On their website, you can download their free set with 16 icons, or you can purchase the entire set with 146 icons for only $12!",
+    "description": "Experiment with Photoshop and a Wacom small graphic tablet",
     "visit": ""
     },
     {
     "id": 6,
     "proyect_title": "RollUp",
     "image": "img/portfolio/rollupnew.png",
-    "client": "Pragsis enterprise BigData event",
-    "description": "Use this area of the page to describe your project. The icon above is part of a free icon set by .On their website, you can download their free set with 16 icons, or you can purchase the entire set with 146 icons for only $12!",
+    "client": "Pragsis",
+    "description": "Pragsis enterprise BigData event",
     "visit": ""
     },
     {
@@ -52,7 +52,7 @@
     "proyect_title": "Drawing",
     "image": "img/portfolio/retrato.jpg",
     "client": "Personal purpose",
-    "description": "Use this area of the page to describe your project. The icon above is part of a free icon set by .On their website, you can download their free set with 16 icons, or you can purchase the entire set with 146 icons for only $12!",
+    "description": "Pen drawing",
     "visit": ""
     }
 ]

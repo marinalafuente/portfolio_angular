@@ -196,12 +196,18 @@ section.success {
 background: #ffffff; /* fallback for old browsers */
 color: black;
 }
+
+/*This is supposed to be mobile*/
+
 @media (max-width: 767px) {
   section {
     padding: 75px 0;
   }
   section.first {
     padding-top: 75px;
+  }
+  html{
+    width: 150%; /*it's suposed to cover all mobile screen*/
   }
 }
 #portfolio .portfolio-item {
@@ -250,11 +256,13 @@ color: black;
 #portfolio * {
   z-index: 2;
 }
-@media (min-width: 767px) {
+
+@media (min-width: 567px) {
   #portfolio .portfolio-item {
     margin: 0 0 30px;
   }
 }
+
 .floating-label-form-group {
   position: relative;
   margin-bottom: 0;
@@ -320,6 +328,10 @@ footer .footer-col {
 footer .footer-below {
   padding: 25px 0;
   background-color: #233140;
+}
+.footer-above{
+  background-image: url('../img/code.jpg');
+  background-size: cover;
 }
 .btn-outline {
   color: black;

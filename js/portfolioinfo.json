@@ -44,15 +44,7 @@
     "proyect_title": "RollUp",
     "image": "img/portfolio/rollupnew.png",
     "client": "Pragsis",
-    "description": "Pragsis enterprise BigData event",
+    "description": "Pragsis enterprise BigData event http://www.bigdatabrunch.com/",
     "visit": ""
     },
-    {
-    "id": 7,
-    "proyect_title": "Drawing",
-    "image": "img/portfolio/retrato.jpg",
-    "client": "Personal purpose",
-    "description": "Pen drawing",
-    "visit": ""
-    }
 ]
